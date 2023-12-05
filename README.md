@@ -1,7 +1,5 @@
 # YOLO web app
 
-# AWS-CICD-Deployment-with-Github-Actions
-
 # AWS Deployment
 
 1. Sign Language Deployments on AWS
@@ -20,6 +18,9 @@
 
 
 ![CI/CD Deployment using Github Action](<Screenshot 2023-12-05 131558.png>)
+
+
+# AWS-CICD-Deployment-with-Github-Actions
 
 
 ## 1. Login to AWS console.
