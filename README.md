@@ -2,6 +2,26 @@
 
 # AWS-CICD-Deployment-with-Github-Actions
 
+# AWS Deployment
+
+1. Sign Language Deployments on AWS
+
+
+![Sign Language Deployments on AWS](<Screenshot 2023-12-05 115537.png>)
+
+
+2. Creating EC2 instance on AWS
+
+
+![creating EC2 instance](<Screenshot 2023-12-05 130956.png>)
+
+
+3. CI/CD Deployment using Github Action
+
+
+![CI/CD Deployment using Github Action](<Screenshot 2023-12-05 131558.png>)
+
+
 ## 1. Login to AWS console.
 
 ## 2. Create IAM user for deployment
@@ -72,16 +92,6 @@
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = 
-
-
-# AWS Deployment
-
-
-![Sign Language Deployments on AWS](<Screenshot 2023-12-05 115537.png>)
-
-![creating EC2 instance](<Screenshot 2023-12-05 130956.png>)
-
-![CI/CD Deployment using Github Action](<Screenshot 2023-12-05 131558.png>)
 
 
 
